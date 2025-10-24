@@ -61,8 +61,4 @@ Permite registrar, consultar y administrar equipos a través del **Django Admin*
 
 ---
 
-## 🧑‍💼 Autor
 
-**José León**  
-INACAP – Tecnologías de la Información y Ciberseguridad  
-Asignatura: *Programación Backend – TI3041*
